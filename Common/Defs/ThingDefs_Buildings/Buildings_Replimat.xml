@@ -45,8 +45,8 @@
 		<uiIconPath>UI/replimatTerminal</uiIconPath>
 		<costList>
 			<Steel>50</Steel>
-			<ComponentSpacer>5</ComponentSpacer>
-			<Plasteel>20</Plasteel>
+			<ComponentSpacer>1</ComponentSpacer>
+			<Plasteel>10</Plasteel>
 		</costList>
 		<fillPercent>1</fillPercent>
 		<statBases>
@@ -102,7 +102,7 @@
 		</graphicData>
 		<costList>
 			<Steel>5</Steel>
-			<ComponentSpacer>2</ComponentSpacer>
+			<ComponentSpacer>1</ComponentSpacer>
 			<Plasteel>2</Plasteel>
 		</costList>
 		<fillPercent>0.1</fillPercent>
@@ -177,7 +177,7 @@
 			<Steel>25</Steel>
 			<ComponentIndustrial>5</ComponentIndustrial>
 			<ComponentSpacer>1</ComponentSpacer>
-			<Plasteel>75</Plasteel>
+			<Plasteel>25</Plasteel>
 		</costList>
 		<fillPercent>1</fillPercent>
 		<statBases>
@@ -227,8 +227,8 @@
 		<costList>
 			<Steel>80</Steel>
 			<ComponentIndustrial>10</ComponentIndustrial>
-			<ComponentSpacer>8</ComponentSpacer>
-			<Plasteel>50</Plasteel>
+			<ComponentSpacer>2</ComponentSpacer>
+			<Plasteel>25</Plasteel>
 		</costList>
 		<fillPercent>0.5</fillPercent>
 		<statBases>
@@ -318,8 +318,8 @@
 		<costList>
 			<Steel>100</Steel>
 			<ComponentIndustrial>10</ComponentIndustrial>
-			<ComponentSpacer>8</ComponentSpacer>
-			<Plasteel>80</Plasteel>
+			<ComponentSpacer>2</ComponentSpacer>
+			<Plasteel>40</Plasteel>
 		</costList>
 		<fillPercent>0.5</fillPercent>
 		<statBases>
@@ -401,9 +401,9 @@
 		<uiIconPath>UI/replimatComputer</uiIconPath>
 		<costList>
 			<Steel>80</Steel>
-			<ComponentSpacer>12</ComponentSpacer>
+			<ComponentSpacer>4</ComponentSpacer>
 			<ComponentIndustrial>8</ComponentIndustrial>
-			<Plasteel>60</Plasteel>
+			<Plasteel>30</Plasteel>
 			<IsolinearModule>1</IsolinearModule>
 		</costList>
 		<fillPercent>1</fillPercent>
