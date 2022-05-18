@@ -15,7 +15,7 @@
 		<label>Molecular Nutrient Resequencing</label>
 		<description>Allows the construction of Replimat systems, advanced versions of nutrient paste dispensers that convert raw nutritive feedstock into a wider variety of high quality meals. Also automatically lays nutrient feedstock pipelines along existing power conduit networks.</description>
 		<tab>Replimat</tab>
-		<baseCost>6000</baseCost>
+		<baseCost>2500</baseCost>
 		<techLevel>Spacer</techLevel>
 		<prerequisites>
 			<li>AdvancedFabrication</li>

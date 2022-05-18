@@ -7,7 +7,8 @@
 			<li Class="PatchOperationAdd">
 				<xpath>/Defs/TraderKindDef[
 					defName = "Caravan_Outlander_Exotic" or
-					defName = "Orbital_Exotic"
+					defName = "Orbital_Exotic" or
+					defName = "Caravan_Outlander_BulkGoods"
 				]/stockGenerators</xpath>
 				<value>
 					<li Class="StockGenerator_SingleDef">

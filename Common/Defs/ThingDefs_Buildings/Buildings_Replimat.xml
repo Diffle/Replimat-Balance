@@ -72,12 +72,12 @@
 			<li Class="CompProperties_Power">
 				<compClass>CompPowerTrader</compClass>
 				<shortCircuitInRain>true</shortCircuitInRain>
-				<basePowerConsumption>2000</basePowerConsumption>
+				<basePowerConsumption>200</basePowerConsumption>
 			</li>
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Forbiddable"/>
 			<li Class="Replimat.CompProperties_StateDependentPowerUse">
-				<activeModePowerConsumption>10000</activeModePowerConsumption>
+				<activeModePowerConsumption>1000</activeModePowerConsumption>
 			</li>
 		</comps>
 	</ThingDef>
@@ -147,12 +147,12 @@
 			<li Class="CompProperties_Power">
 				<compClass>CompPowerTrader</compClass>
 				<shortCircuitInRain>true</shortCircuitInRain>
-				<basePowerConsumption>500</basePowerConsumption>
+				<basePowerConsumption>100</basePowerConsumption>
 			</li>
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Forbiddable"/>
 			<li Class="Replimat.CompProperties_StateDependentPowerUse">
-				<activeModePowerConsumption>2500</activeModePowerConsumption>
+				<activeModePowerConsumption>2000</activeModePowerConsumption>
 			</li>
 		</comps>
 	</ThingDef>
@@ -277,7 +277,7 @@
 			<li Class="CompProperties_Power">
 				<compClass>CompPowerTrader</compClass>
 				<shortCircuitInRain>true</shortCircuitInRain>
-				<basePowerConsumption>2000</basePowerConsumption>
+				<basePowerConsumption>100</basePowerConsumption>
 			</li>
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Forbiddable"/>
@@ -291,7 +291,7 @@
 				<altitudeLayer>ItemImportant</altitudeLayer>
 			</li>
 			<li Class="Replimat.CompProperties_StateDependentPowerUse">
-				<activeModePowerConsumption>20000</activeModePowerConsumption>
+				<activeModePowerConsumption>2000</activeModePowerConsumption>
 			</li>
 		</comps>
 	</ThingDef>
@@ -368,12 +368,12 @@
 			<li Class="CompProperties_Power">
 				<compClass>CompPowerTrader</compClass>
 				<shortCircuitInRain>true</shortCircuitInRain>
-				<basePowerConsumption>2000</basePowerConsumption>
+				<basePowerConsumption>100</basePowerConsumption>
 			</li>
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Forbiddable"/>
 			<li Class="Replimat.CompProperties_StateDependentPowerUse">
-				<activeModePowerConsumption>25000</activeModePowerConsumption>
+				<activeModePowerConsumption>2500</activeModePowerConsumption>
 			</li>
 		</comps>
 	</ThingDef>
@@ -421,7 +421,7 @@
 			<li Class="CompProperties_Power">
 				<compClass>CompPowerTrader</compClass>
 				<shortCircuitInRain>true</shortCircuitInRain>
-				<basePowerConsumption>1000</basePowerConsumption>
+				<basePowerConsumption>400</basePowerConsumption>
 			</li>
 			<li Class="CompProperties_Flickable"/>
 			<li Class="Replimat.CompProperties_ReplimatRestrictions">
